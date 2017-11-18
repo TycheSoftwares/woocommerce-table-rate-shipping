@@ -761,7 +761,7 @@ if ( is_plugin_active( 'woocommerce/woocommerce.php' ) ) {
 				/* 
 					Calculate shipping cost. This is called by WooCommerce
 				*/
-				public function calculate_shipping( $package ) {
+				public function calculate_shipping( $package = array() ) {
 				
 					$available_table_rates = $this->get_available_table_rates($package);
 					
