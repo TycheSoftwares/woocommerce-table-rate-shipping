@@ -1,0 +1,220 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Table Rate Shipping by Mangohour\n"
+"POT-Creation-Date: 2015-11-13 16:25-0000\n"
+"PO-Revision-Date: 2015-03-27 12:18-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mh-wc-table-rate.php:41
+msgid "Table Rate"
+msgstr ""
+
+#: mh-wc-table-rate.php:42
+msgid "A shipping calculator for WooCommerce"
+msgstr ""
+
+#: mh-wc-table-rate.php:79
+msgid "Enable"
+msgstr ""
+
+#: mh-wc-table-rate.php:81
+msgid "Enable this shipping method"
+msgstr ""
+
+#: mh-wc-table-rate.php:85
+msgid "Title"
+msgstr ""
+
+#: mh-wc-table-rate.php:86
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: mh-wc-table-rate.php:92
+msgid "Tax Status"
+msgstr ""
+
+#: mh-wc-table-rate.php:96
+msgid "Taxable"
+msgstr ""
+
+#: mh-wc-table-rate.php:97
+msgid "None"
+msgstr ""
+
+#: mh-wc-table-rate.php:101
+msgid "Handling Fee"
+msgstr ""
+
+#: mh-wc-table-rate.php:102
+msgid "Fee, excluding tax. Leave blank to disable."
+msgstr ""
+
+#: mh-wc-table-rate.php:128
+msgid "Everywhere Else"
+msgstr ""
+
+#: mh-wc-table-rate.php:136
+#, php-format
+msgid "Weight (%s)"
+msgstr ""
+
+#: mh-wc-table-rate.php:137
+#, php-format
+msgid "Total (%s)"
+msgstr ""
+
+#: mh-wc-table-rate.php:201
+msgid "Table Rate Shipping by Mangohour"
+msgstr ""
+
+#: mh-wc-table-rate.php:203
+#, php-format
+msgid "Check out our <a href=\"%s\">premium version</a> for extra features and support."
+msgstr ""
+
+#: mh-wc-table-rate.php:204
+msgid "Including:"
+msgstr ""
+
+#: mh-wc-table-rate.php:205
+msgid "Delivery options"
+msgstr ""
+
+#: mh-wc-table-rate.php:206
+msgid "States, ZIPs and postal codes"
+msgstr ""
+
+#: mh-wc-table-rate.php:207
+msgid "Product shipping classes"
+msgstr ""
+
+#: mh-wc-table-rate.php:208
+msgid "Quantities"
+msgstr ""
+
+#: mh-wc-table-rate.php:209
+msgid "Per item/kg/lbs costs"
+msgstr ""
+
+#: mh-wc-table-rate.php:210
+msgid "Tax/VAT settings"
+msgstr ""
+
+#: mh-wc-table-rate.php:212
+msgid "Go to Table Rate Shipping Plus website"
+msgstr ""
+
+#: mh-wc-table-rate.php:228
+msgid "Shipping Zones"
+msgstr ""
+
+#: mh-wc-table-rate.php:230
+msgid "After adding a shipping zone, hit \"Save changes\" so that it appears as an option in the table rate section."
+msgstr ""
+
+#: mh-wc-table-rate.php:238 mh-wc-table-rate.php:363
+msgid "ID"
+msgstr ""
+
+#: mh-wc-table-rate.php:239
+msgid "Name"
+msgstr ""
+
+#: mh-wc-table-rate.php:239
+msgid "Shipping zone name, will appear in table rates table."
+msgstr ""
+
+#: mh-wc-table-rate.php:240
+msgid "Countries"
+msgstr ""
+
+#: mh-wc-table-rate.php:240
+msgid "Add one or more countries that are part of this shipping zone."
+msgstr ""
+
+#: mh-wc-table-rate.php:245
+msgid "Add Shipping Zone"
+msgstr ""
+
+#: mh-wc-table-rate.php:245
+msgid "Delete Selected Zones"
+msgstr ""
+
+#: mh-wc-table-rate.php:252
+msgid "Default Zone (everywhere else)"
+msgstr ""
+
+#: mh-wc-table-rate.php:253
+msgid "All allowed countries"
+msgstr ""
+
+#: mh-wc-table-rate.php:327
+msgid "Delete the selected zones?"
+msgstr ""
+
+#: mh-wc-table-rate.php:351
+msgid "Shipping Rates"
+msgstr ""
+
+#: mh-wc-table-rate.php:364
+msgid "Zone"
+msgstr ""
+
+#: mh-wc-table-rate.php:364
+msgid "Shipping zone, as defined in Shipping Zones table."
+msgstr ""
+
+#: mh-wc-table-rate.php:365
+msgid "Condition"
+msgstr ""
+
+#: mh-wc-table-rate.php:365
+msgid "Choose which metric to base your table rate on."
+msgstr ""
+
+#: mh-wc-table-rate.php:366
+msgid "Min"
+msgstr ""
+
+#: mh-wc-table-rate.php:366
+msgid "Minimum, in decimal format. Inclusive."
+msgstr ""
+
+#: mh-wc-table-rate.php:367
+msgid "Max"
+msgstr ""
+
+#: mh-wc-table-rate.php:367
+msgid "Maximum, in decimal format. Inclusive. To impose no upper limit, use *\"."
+msgstr ""
+
+#: mh-wc-table-rate.php:368
+msgid "Cost"
+msgstr ""
+
+#: mh-wc-table-rate.php:368
+msgid "Cost, excluding tax."
+msgstr ""
+
+#: mh-wc-table-rate.php:373
+msgid "Add Shipping Rate"
+msgstr ""
+
+#: mh-wc-table-rate.php:373
+msgid "Delete Selected Rates"
+msgstr ""
+
+#: mh-wc-table-rate.php:448
+msgid "Delete the selected rates?"
+msgstr ""
